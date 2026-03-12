@@ -1,13 +1,13 @@
-
-
-
 # README-FA.md
 
+[English](https://github.com/hntmia/IRAN-Repository-Manager-Mirror-Finder-/blob/main/README-FA.md
 
 # مدیریت ریپوزیتوری ایران
 
-[![مجوز: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Bash](https://img.shields.io/badge/Shell-Bash-green)](https://www.gnu.org/software/bash/)
+)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/hntmia/IRAN-Repository-Manager-Mirror-Finder-/blob/main/LICENSE)
+[![Bash](https://img.shields.io/badge/Shell-Bash-green)](https://github.com/hntmia/IRAN-Repository-Manager-Mirror-Finder-/blob/iran-repo.manager.sh)
 
 یک اسکریپت قدرتمند و جامع برای یافتن، رتبه‌بندی و اعمال سریع‌ترین آینه‌ی محلی برای توزیع‌های لینوکس (اوبونتو، دبیان، فدورا، CentOS، آرچ و غیره) در ایران.
 
