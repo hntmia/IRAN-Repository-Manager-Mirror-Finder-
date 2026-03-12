@@ -8,7 +8,7 @@ A universal script to find and apply the fastest local repository mirror for Lin
 [![Bash](https://img.shields.io/badge/Shell-Bash-green)](https://github.com/hntmia/IRAN-Repository-Manager-Mirror-Finder-/blob/iran-repo.manager.sh)
 
 A powerful and universal script to find, rank, and apply the fastest local repository mirror for Linux distributions (Ubuntu, Debian, Fedora, CentOS, Arch, etc.) in Iran.
----
+
 
 ## Features
 
