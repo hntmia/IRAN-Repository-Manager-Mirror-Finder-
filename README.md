@@ -95,11 +95,11 @@ You will see:
 
 ## Command-line Modes
 
-    `./iran-repo-manager.sh scan` – Scan mirrors and show ranking (no changes).
+    ./iran-repo-manager.sh scan #– Scan mirrors and show ranking (no changes).
 
-    `./iran-repo-manager.sh list` – List all expanded mirror URLs.
+    ./iran-repo-manager.sh list #– List all expanded mirror URLs.
 
-    `./iran-repo-manager.sh auto` – Scan and apply the best mirror automatically (non‑interactive).
+    ./iran-repo-manager.sh auto #– Scan and apply the best mirror automatically (non‑interactive).
 
 ## How It Works
 
@@ -135,13 +135,13 @@ The file mirrors.list should contain one base URL per line. Lines starting with 
 
 You can use the following placeholders:
 
-    `$distro` – distribution name (e.g., ubuntu, fedora)
+    $distro #– distribution name (e.g., ubuntu, fedora)
 
-    `$version` – version number (e.g., 24.04, 40)
+    $version #– version number (e.g., 24.04, 40)
 
-    `$codename` – codename (e.g., noble, plucky) – falls back to $version if not available
+    $codename #– codename (e.g., noble, plucky) – falls back to $version if not available
 
-    `$basearch` – architecture (default x86_64)
+    $basearch #– architecture (default x86_64)
 
 Example:
     ```bash
