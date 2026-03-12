@@ -1,6 +1,6 @@
 # README-FA.md
 
-[English](https://github.com/hntmia/IRAN-Repository-Manager-Mirror-Finder-/blob/main/README-FA.md)
+[English](https://github.com/hntmia/IRAN-Repository-Manager-Mirror-Finder-/blob/main/README.md)
 
 # مدیریت ریپوزیتوری ایران
 
