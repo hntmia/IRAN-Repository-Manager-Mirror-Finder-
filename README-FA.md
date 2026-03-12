@@ -1,10 +1,10 @@
 # README-FA.md
 
-[English](https://github.com/hntmia/IRAN-Repository-Manager-Mirror-Finder-/blob/main/README-FA.md
+[English](https://github.com/hntmia/IRAN-Repository-Manager-Mirror-Finder-/blob/main/README-FA.md)
 
 # مدیریت ریپوزیتوری ایران
 
-)
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/hntmia/IRAN-Repository-Manager-Mirror-Finder-/blob/main/LICENSE)
 [![Bash](https://img.shields.io/badge/Shell-Bash-green)](https://github.com/hntmia/IRAN-Repository-Manager-Mirror-Finder-/blob/iran-repo.manager.sh)
