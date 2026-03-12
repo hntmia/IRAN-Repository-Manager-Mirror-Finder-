@@ -1,10 +1,10 @@
 # IRAN-Repository-Manager-Mirror-Finder-
-[![README](https://github.com/hntmia/IRAN-Repository-Manager-Mirror-Finder-/blob/main/README-FA.md)
+[![IR](https://github.com/hntmia/IRAN-Repository-Manager-Mirror-Finder-/blob/main/README-FA.md)
 
 A universal script to find and apply the fastest local repository mirror for Linux distributions in Iran and bypassing filtering to keep yourself update
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Bash](https://img.shields.io/badge/Shell-Bash-green)](https://www.gnu.org/software/bash/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/hntmia/IRAN-Repository-Manager-Mirror-Finder-/blob/main/LICENSE)
+[![Bash](https://img.shields.io/badge/Shell-Bash-green)](https://github.com/hntmia/IRAN-Repository-Manager-Mirror-Finder-/blob/iran-repo.manager.sh)
 
 A powerful and universal script to find, rank, and apply the fastest local repository mirror for Linux distributions (Ubuntu, Debian, Fedora, CentOS, Arch, etc.) in Iran.
 
