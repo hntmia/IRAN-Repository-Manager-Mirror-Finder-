@@ -1,9 +1,6 @@
-# README-FA.md
-
-[English](https://github.com/hntmia/IRAN-Repository-Manager-Mirror-Finder-/blob/main/README.md)
-
 # مدیریت ریپوزیتوری ایران
 
+[English](https://github.com/hntmia/IRAN-Repository-Manager-Mirror-Finder-/blob/main/README.md)
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/hntmia/IRAN-Repository-Manager-Mirror-Finder-/blob/main/LICENSE)
