@@ -1,5 +1,5 @@
 # IRAN-Repository-Manager-Mirror-Finder-
-[!README[README](https://github.com/hntmia/IRAN-Repository-Manager-Mirror-Finder-/blob/main/README-FA.md)
+[![README](https://github.com/hntmia/IRAN-Repository-Manager-Mirror-Finder-/blob/main/README-FA.md)
 
 A universal script to find and apply the fastest local repository mirror for Linux distributions in Iran and bypassing filtering to keep yourself update
 
